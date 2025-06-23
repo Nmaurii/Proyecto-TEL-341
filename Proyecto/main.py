@@ -8,9 +8,6 @@ from Raro import *
 g es un objeto de la clase Graph que contiene la matriz con la informacion
 de nodos y enlaces, mientras que G solo se usa para imprimir el grafo
 '''
-from Graph import Graph
-from Raro import *
-
 # conf inicial
 cantidad_nodos = 20
 area_x, area_y = 20, 20
